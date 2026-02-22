@@ -1,4 +1,3 @@
-readme_content = """
 # 📚 AI PDF to EPUB Converter
 
 An intelligent PDF-to-EPUB conversion engine powered by LLM-based semantic structure detection.
