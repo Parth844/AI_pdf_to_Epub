@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, serif;
+    line-height: 1.8;
+    margin: 5%;
+}
+
+.chapter-title {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    font-weight: bold;
+}
+
+.para {
+    text-indent: 1.5em;
+    margin-bottom: 1em;
+}
+
+.dialogue {
+    margin-left: 1.5em;
+    font-style: italic;
+}
+
+.quote {
+    text-align: center;
+    font-style: italic;
+    margin: 1em 0;
+}
+
+.scene-break {
+    text-align: center;
+    margin: 2em 0;
+}
+h1.chapter-title {
+    page-break-before: always;
+    text-align: center;
+    margin-top: 3em;
+}

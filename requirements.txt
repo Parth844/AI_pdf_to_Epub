@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+ebooklib
+pytesseract
+Pillow
+beautifulsoup4
+jinja2

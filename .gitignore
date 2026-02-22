@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Uploads and output files
+uploads/
+output/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/

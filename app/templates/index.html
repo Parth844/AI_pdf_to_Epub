@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF to EPUB</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>PDF → EPUB Converter</h1>
+        <form action="/convert" enctype="multipart/form-data" method="post">
+            <input type="file" name="file" accept=".pdf" required>
+            <button type="submit">Convert</button>
+        </form>
+    </div>
+</body>
+</html>
